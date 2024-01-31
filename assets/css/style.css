@@ -1,114 +1,15 @@
-* {
-    margin: 0;
-    padding: 0;
+.custom-header-bg {
+    background-color: #006D77 !important;
 }
 
-header {
-    background-color: blue;
-    height: 60px;
+.custom-search-btn {
+    background-color: #E29578 !important;
 }
 
-header h2 {
-    background-color: blue;
-    text-align: center;
-    padding-top: 10px;
-    color: white;
-}
-
-.row {
-    display: flex;
-}
-
-.column_left {
-    flex: 1 0 10%;
-    text-align: center;
-    /*width: 50px;*/
-    padding-right: 1%;
-    /*border-bottom: 2px solid gray;
-    border-right: 2px solid gray;*/
-}
-
-form {
-    padding-right: 10%;
-    padding-left: 10%;
-    height: 120px;
-}
-
-.form_btn {
-    width: 180px;
-}
-
-.display_cities {
-    
-    width: 180px;
-padding-left: 10%;
-margin-top: 20px;
-border-top: 2px solid lightgray;
-
-
-
-}
-
-.city_btn {
-width: 180px;
-margin-top: 20px;
-padding-left: 10px;
-
-}
-
-.column_right {
-    flex: 1 0 80%;
-    text-align: center;
-    padding-left: 1%;
-    margin-right: 80px;
+.custom-card-bg {
+    background-color: #83C5BE;
 }
 
 .hide {
     display: none;
-}
-
-.forecast_h {
-    margin-left: 0;
-}
-
-.forecast_container {
-display: flex;
-flex-wrap: wrap;
-justify-content: flex-start;
-}
-
-.forecast_day {
-flex: 1 0 10%;
-background-color:#2F4F4F;
-color: white;
-height: 200px;
-margin-right: 5px;
-padding-left: 10px;
-padding-top: 10px;
-text-align: left;
-}
-
-#weather_data_b1 {
-    border: 1px solid black;
-    margin-top: 5px;
-    width: auto;
-    text-align: left;
-    padding-left: 10px;
-    padding-bottom: 10px;
-}
-
-#weather_data_brief {
-    display:flex;
-    flex:wrap;
-    text-align:center;
-    width: 350px;
-}
-
-#weather_data_brief h5 {
-    padding-top: 10px;
-}
-
-ul {
-    list-style-type: none;
-    padding-left: 0;
 }
