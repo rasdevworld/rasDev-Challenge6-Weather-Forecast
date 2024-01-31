@@ -31,10 +31,11 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ## Screenshot
 
+![Alt text](assets/images/weather-dashboard.png)
 
 
 ## Deployed Page and GitHub Repository
 
-Deployed Webpage : 
+Deployed Webpage : https://rasdevworld.github.io/rasDev-Challenge6-Weather-Forecast/
 
 Github Repository: https://github.com/rasdevworld/rasDev-Challenge6-Weather-Forecast
